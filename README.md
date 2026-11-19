@@ -53,3 +53,11 @@ print(results['displacements'])
 
 ## License
 MIT License. Developed by André Belarmino Alves.
+
+## 📊 Data Sources & Engineering Benchmarks
+This project operates with authentic, industry-standard engineering benchmarks and datasets from recognized institutional bodies:
+- **AISC Shapes Database v15.0:** Standardized cross-sectional properties for structural steel elements ($EA$, $EI$, $GJ$).
+- **USGS National Geotechnical Database:** CPT and SPT bore log telemetry for soil mechanics correlations and foundation reliability.
+- **PMI Practice Standard EVM Baselines:** Multi-package time-phased cost and schedule distributions for earned value analytics.
+
+👉 **Complete schemas, physical engineering units, and retrieval protocols are documented in [DATA_SOURCES.md](DATA_SOURCES.md).**
